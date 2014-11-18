@@ -1,0 +1,25 @@
+{
+  "name": "ember-cli-animate-css",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Will Raxworthy"
+  ],
+  "description": "Adds animate.css to your ember-cli application.",
+  "keywords": [
+    "ember-addon",
+    "ember-cli"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/willrax/ember-cli-animate-css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "~3.2.0"
+  }
+}
