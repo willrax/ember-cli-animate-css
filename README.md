@@ -1,11 +1,9 @@
-ember-cli-animate-css
+# ember-cli-animate-css
 
-This addon inserts animate.css into your ember-cli application.
+This addon inserts [animate.css](https://daneden.github.io/animate.css/) into your Ember CLI application.
 
 ### Installation / Usage
 
-From within your Ember CLI application (must be >= 0.0.41), run the following:
+From within your Ember CLI application, run the following:
 
-`npm install --save ember-cli-animate-css`
-
-`ember g animate-css`
+`ember install ember-cli-animate-css`
